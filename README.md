@@ -1,4 +1,4 @@
-# DataAnalystSalesManagement
+# Sales Management Dashboard
 This project culminates in a dynamic PowerBI dashboard designed to provide comprehensive sales insights, built upon meticulously extracted and transformed data from the `AdventureWorksDW2019` database. The dashboard offers a multi-faceted view of sales performance, customer behavior, and product trends, empowering sales management with actionable intelligence.
 
 The anticipated outcomes of this project, as demonstrated by the provided PowerBI dashboard screenshots, include:
